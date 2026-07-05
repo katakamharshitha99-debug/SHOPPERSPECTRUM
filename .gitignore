@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+clean_data.csv
+online_retail.csv
+
+kmeans.pkl
+scaler.pkl
+similarity.pkl
+
+.env
